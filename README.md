@@ -68,7 +68,7 @@
 
 ## 🤝 Contributions
 
-Know a high-quality founder community that’s not listed? [Open a pull request](https://github.com/yourusername/awesome-founder-communities/pulls) or [submit an issue](https://github.com/yourusername/awesome-founder-communities/issues) to contribute.
+Know a high-quality founder community that’s not listed? [Open a pull request](https://github.com/DirectorySurf/awesome-founder-communities/pulls) or [submit an issue](https://github.com/DirectorySurf/awesome-founder-communities/issues) to contribute.
 
 ---
 
