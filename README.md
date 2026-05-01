@@ -38,6 +38,7 @@
 
 ## 🌍 Niche & Specialized Groups
 
+* [Unicorn Embassy](https://unicornembassy.com) – International community for emigrant tech founders, with active chapters in 8 cities (Yerevan, Tbilisi, Belgrade, Dubai, Istanbul, Barcelona, Valencia, Bali). 150+ events: pitch sessions, masterminds, founder dinners. Bilingual EN/RU. Free.
 * [Latitud](https://www.latitud.com) – Founder network for Latin American startups.
 * [FemStreet](https://femstreet.substack.com) – Women in tech and venture.
 * [Gen Z VCs](https://genzvcs.xyz) – Young founders, VCs, and builders.
