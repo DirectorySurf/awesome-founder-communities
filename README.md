@@ -12,6 +12,7 @@
 * [LinkedIn – Side Projects & Startups](https://www.linkedin.com/groups/11908947/) – Group for side project builders and startup founders.
 * [On Deck](https://www.beondeck.com) – Curated founder fellowships and high-caliber peer networks.
 * [Day One](https://www.joindayone.com) – Community and accelerator for early-stage entrepreneurs.
+* [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) – 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 
 ---
 
