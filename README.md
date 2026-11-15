@@ -55,7 +55,8 @@
 * [NoCode Slack & Reddit](https://www.reddit.com/r/NoCode/) – No-code discussion and support.
 * [UX Design](https://www.reddit.com/r/UXDesign/) – Community of designers and product thinkers.
 * [Slack Communities List](https://standuply.com/slack-communities) – Curated index of active founder Slack groups.
-* [Discord Startup Servers](https://disboard.org/search?keyword=startup) – Discover active startup Discord groups.
+* [Discord Startup Servers](https://disboard.org/search?keyword=startup)
+* [No Stairs Please MCP](https://nostairsplease.com/mcp) - Free live-music venue directory and remote MCP server for independent musicians and talent buyers – Discover active startup Discord groups.
 
 ---
 
